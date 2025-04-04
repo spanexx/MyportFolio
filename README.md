@@ -1,8 +1,8 @@
-# Welcome to the Victor Ani Portfolio Nexus
+# MyPortfolio - Victor Ani Portfolio Nexus
 
 ## Project Info
 
-This is the repository for Victor Ani's portfolio project.
+This is my personal portfolio website showcasing my bio, education history, and professional experiences.
 
 ## How can I edit this code?
 
@@ -18,10 +18,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <gh repo clone spanexx/victor-ani-portfolio-nexus>
+git clone https://github.com/spanexx/MyportFolio.git
 
 # Step 2: Navigate to the project directory.
-cd <Portfolio>
+cd MyportFolio
 
 # Step 3: Install the necessary dependencies.
 npm i
