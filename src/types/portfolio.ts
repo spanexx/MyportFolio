@@ -59,6 +59,7 @@ export interface Project {
   description: string;
   technologies: string[];
   imageUrl?: string;
+  videoUrl?: string;  // Adding video URL support
   githubUrl?: string;
   liveUrl?: string;
 }

@@ -180,24 +180,24 @@ export const projectsData: Project[] = [
     title: "Portfolio Website",
     description: "A personal portfolio website showcasing my skills, experience, and projects.",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
-    githubUrl: "https://github.com/spanexx/portfolio"
+    imageUrl: "/lovable-uploads/1dc8372e-cc6e-4b4b-bf25-74fc5bca8186.png",
+    githubUrl: "https://github.com/spanexx/portfolio",
+    liveUrl: "https://spanexx.com"
   },
   {
     title: "Hospitality Management System",
     description: "A comprehensive system for managing hotel operations including reservations, room service, and billing.",
     technologies: ["Angular", "Node.js", "MongoDB"],
+    imageUrl: "/lovable-uploads/4b1abb75-e0f4-4c6f-b754-5941a066e1e1.png",
+    videoUrl: "https://youtube.com/your-demo-video",
     githubUrl: "https://github.com/spanexx/hospitality-management"
   },
   {
     title: "Cocktail Recipe App",
     description: "A mobile-responsive web application featuring a variety of cocktail recipes with detailed preparation instructions.",
     technologies: ["React", "Firebase", "CSS3"],
-    githubUrl: "https://github.com/spanexx/cocktail-recipes"
-  },
-  {
-    title: "Event Management Platform",
-    description: "A platform for planning and managing events, including guest lists, venue details, and scheduling.",
-    technologies: ["JavaScript", "Express.js", "MySQL"],
-    githubUrl: "https://github.com/spanexx/event-manager"
+    imageUrl: "/lovable-uploads/636d3116-22f3-4acb-8421-fc587b9c51b9.png",
+    githubUrl: "https://github.com/spanexx/cocktail-recipes",
+    liveUrl: "https://cocktails.spanexx.com"
   }
 ];
